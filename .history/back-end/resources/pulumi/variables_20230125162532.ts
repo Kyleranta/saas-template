@@ -1,6 +1,7 @@
 import { Output } from '@pulumi/pulumi';
 
 export const variables = {
-  region: 'us-east-1' as const, // <-- change this to your region
+  region: 'eu-west-1' as const, // <-- change this to your region
   dynamoDBTables: {} as Record<string, Output<string>>,
+  
 };
