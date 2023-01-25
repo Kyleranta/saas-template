@@ -10,6 +10,14 @@
       "StackName": "amplify-kyle-dev-172331",
       "StackId": "arn:aws:cloudformation:us-east-1:858778936161:stack/amplify-kyle-dev-172331/e64e70c0-9cfe-11ed-837c-0a471f48e4ad",
       "AmplifyAppId": "d1yy7zqjauza9q"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1yy7zqjauza9q",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
