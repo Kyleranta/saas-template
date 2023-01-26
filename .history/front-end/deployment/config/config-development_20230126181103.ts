@@ -6,7 +6,7 @@ const HOSTED_URL = 'https://main.d1yy7zqjauza9q.amplifyapp.com';
 const configDevelopment = {
   HOSTED_URL,
   MODE: 'DEVELOPMENT',
-  REGION: 'us-east-1',
+  REGION: 'eu-east-1',
   REDIRECT_SIGN_IN: `${HOSTED_URL}/`,
   REDIRECT_SIGN_OUT: `${HOSTED_URL}/signout/`,
   AUTHENTICATION_TYPE: 'AWS_IAM' as const,
