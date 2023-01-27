@@ -6,7 +6,7 @@
     "framework": "react",
     "config": {
       "SourceDir": "D:\\saas template\\saas-template\\front-end",
-      "DistributionDir": "build",
+      "DistributionDir": "/amplify/backend/api//build",
       "BuildCommand": "npm.cmd run-script build",
       "StartCommand": "npm.cmd run-script start"
     }
